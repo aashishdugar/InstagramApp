@@ -4,5 +4,6 @@ Not to feed the anxiety and negative aspects of Social Media, but this script do
 ### Setup Instructions
 The base requirements for these are a Python evironment(basically an interpreter. You can use the terminal,IDEs or notebooks after you have the interpreter) and that's it.
 
-* Then after that, on linux you can do the following - 
-  sudo apt-get install ffmpeg
+* Then after that, on <b>Linux</b> you can do the following-
+
+      sudo apt-get install ffmpeg
