@@ -38,7 +38,7 @@ And you're good to go!
 
 ### Running Instructions
 
-In the script change the username and password variables to your username and password, compile and run the file(these should show up in your respective notebook or IDE) and the results will be infront of you.
+In the script "FollowLists.py", enter in the double quotes, the username and password variables to your username and password, and compile and run the file(these should show up in your respective notebook or IDE) and the results will be infront of you.
 
 * If you want the users that are in your followers but not in your following, change the variables to - 
 
